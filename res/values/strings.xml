@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Add Subtract Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="total">Your total is: 0.</string>
+    <string name="add_text">Add One</string>
+    <string name="sub_text">Subtract One</string>
+
+</resources>
