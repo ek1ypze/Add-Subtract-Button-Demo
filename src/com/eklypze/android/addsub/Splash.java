@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 
-import com.eklypze.android.helloworld.R;
+import com.eklypze.android.addsub.R;
 
 public class Splash extends Activity {
 	MediaPlayer bgSong;
@@ -28,7 +28,7 @@ public class Splash extends Activity {
 					e.printStackTrace();
 				} finally {
 					Intent openMainActivity = new Intent(
-							"com.eklypze.android.addsub.MAINACTIVITY");
+							"com.eklypze.android.addsub.MENU");
 					startActivity(openMainActivity); // start MainActivity after splash finished
 				}
 			}

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.eklypze.android.helloworld;
+package com.eklypze.android.addsub;
 
 public final class R {
     public static final class attr {

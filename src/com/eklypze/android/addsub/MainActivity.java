@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.eklypze.android.helloworld.R;
+import com.eklypze.android.addsub.R;
 
 public class MainActivity extends Activity {
 
